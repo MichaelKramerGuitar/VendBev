@@ -1,0 +1,56 @@
+18 Mar 2022 09:50:20,302 INFO  - Akiva ordered a [small] black-tea TOTAL: [1.25] 2022/03/18 09:50:20
+18 Mar 2022 09:50:21,291 INFO  - Glennys ordered a [small] latte-macchiato TOTAL: [2.49] 2022/03/18 09:50:21
+18 Mar 2022 09:50:27,324 INFO  - Akiva's order complete.
+18 Mar 2022 09:50:28,958 INFO  - Glennys's order complete.
+18 Mar 2022 09:57:54,185 INFO  - Akiva ordered a [small] latte-macchiato TOTAL: [2.49] 2022/03/18 09:57:54
+18 Mar 2022 09:57:55,181 INFO  - Glennys ordered a [small] latte-macchiato TOTAL: [2.49] 2022/03/18 09:57:55
+18 Mar 2022 09:58:01,869 INFO  - Akiva's order complete.
+18 Mar 2022 09:58:02,850 INFO  - Glennys's order complete.
+18 Mar 2022 10:10:07,719 INFO  - Maya ordered a [large] latte-macchiato TOTAL: [4.15] 2022/03/18 10:10:07
+18 Mar 2022 10:10:08,712 INFO  - Akiva ordered a [large] yellow-tea TOTAL: [2.25] 2022/03/18 10:10:08
+18 Mar 2022 10:10:15,400 INFO  - Maya's order complete.
+18 Mar 2022 10:10:15,729 INFO  - Akiva's order complete.
+18 Mar 2022 10:11:47,937 INFO  - Maya ordered a [small] espresso TOTAL: [2.49] 2022/03/18 10:11:47
+18 Mar 2022 10:11:48,934 INFO  - Maya ordered a [medium] espresso TOTAL: [3.25] 2022/03/18 10:11:48
+18 Mar 2022 10:11:55,621 INFO  - Maya's order complete.
+18 Mar 2022 10:11:56,603 INFO  - Maya's order complete.
+18 Mar 2022 10:17:05,854 INFO  - Akiva ordered a [large] green-tea TOTAL: [2.25] 2022/03/18 10:17:05
+18 Mar 2022 10:17:06,843 INFO  - Maya ordered a [small] black-tea TOTAL: [1.25] 2022/03/18 10:17:06
+18 Mar 2022 10:17:12,870 INFO  - Akiva's order complete.
+18 Mar 2022 10:17:13,848 INFO  - Maya's order complete.
+18 Mar 2022 10:18:13,785 INFO  - Glennys ordered a [large] yellow-tea TOTAL: [2.25] 2022/03/18 10:18:13
+18 Mar 2022 10:18:14,783 INFO  - Akiva ordered a [medium] latte-macchiato TOTAL: [3.25] 2022/03/18 10:18:14
+18 Mar 2022 10:18:20,804 INFO  - Glennys's order complete.
+18 Mar 2022 10:18:22,451 INFO  - Akiva's order complete.
+18 Mar 2022 10:23:46,969 INFO  - Maya ordered a [large] yellow-tea TOTAL: [2.25] 2022/03/18 10:23:46
+18 Mar 2022 10:23:47,969 INFO  - Glennys ordered a [medium] black-tea TOTAL: [1.95] 2022/03/18 10:23:47
+18 Mar 2022 10:23:53,970 INFO  - Maya's order complete.
+18 Mar 2022 10:23:54,978 INFO  - Glennys's order complete.
+18 Mar 2022 21:20:20,287 INFO  - Akiva ordered a [medium] yellow-tea TOTAL: [1.95] 2022/03/18 21:20:20
+18 Mar 2022 21:20:21,289 INFO  - Akiva ordered a [medium] espresso TOTAL: [3.25] 2022/03/18 21:20:21
+18 Mar 2022 21:20:27,303 INFO  - Akiva's order complete.
+18 Mar 2022 21:20:28,958 INFO  - Akiva's order complete.
+18 Mar 2022 21:23:00,090 INFO  - Akiva ordered a [small] latte-macchiato TOTAL: [2.49] 2022/03/18 21:23:00
+18 Mar 2022 21:23:01,088 INFO  - Akiva ordered a [medium] americano TOTAL: [3.25] 2022/03/18 21:23:01
+18 Mar 2022 21:23:07,770 INFO  - Akiva's order complete.
+18 Mar 2022 21:23:08,755 INFO  - Akiva's order complete.
+18 Mar 2022 21:29:51,024 INFO  - Akiva ordered a medium black-tea TOTAL: $1.95 2022/03/18 21:29:51
+18 Mar 2022 21:29:52,008 INFO  - Maya ordered a large yellow-tea TOTAL: $2.25 2022/03/18 21:29:52
+18 Mar 2022 21:29:58,029 INFO  - Akiva's order complete.
+18 Mar 2022 21:29:59,021 INFO  - Maya's order complete.
+18 Mar 2022 21:59:43,495 INFO  - Akiva ordered a large yellow-tea TOTAL: $2.25 2022/03/18 21:59:43
+18 Mar 2022 21:59:44,485 INFO  - Glennys ordered a small black-tea TOTAL: $1.25 2022/03/18 21:59:44
+18 Mar 2022 21:59:50,500 INFO  - Akiva's order complete.
+18 Mar 2022 21:59:51,492 INFO  - Glennys's order complete.
+18 Mar 2022 22:25:50,172 INFO  - Maya ordered a small espresso TOTAL: $2.49 2022/03/18 22:25:50
+18 Mar 2022 22:25:51,155 INFO  - Akiva ordered a medium espresso TOTAL: $3.25 2022/03/18 22:25:51
+18 Mar 2022 22:25:57,843 INFO  - Maya's order complete.
+18 Mar 2022 22:25:58,822 INFO  - Akiva's order complete.
+18 Mar 2022 23:22:24,835 INFO  - Glennys ordered a large americano TOTAL: $4.15 2022/03/18 23:22:24
+18 Mar 2022 23:22:25,832 INFO  - Maya ordered a small espresso TOTAL: $2.49 2022/03/18 23:22:25
+18 Mar 2022 23:22:32,506 INFO  - Glennys's order complete.
+18 Mar 2022 23:22:33,501 INFO  - Maya's order complete.
+18 Mar 2022 23:52:51,871 INFO  - Maya ordered a medium espresso TOTAL: $3.25 2022/03/18 23:52:51
+18 Mar 2022 23:52:52,853 INFO  - Maya ordered a small green-tea TOTAL: $1.25 2022/03/18 23:52:52
+18 Mar 2022 23:52:59,541 INFO  - Maya's order complete.
+18 Mar 2022 23:52:59,854 INFO  - Maya's order complete.
